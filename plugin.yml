@@ -1,0 +1,9 @@
+---
+name: magiktnt
+version: 0.2.0
+main: Nitsugua\magiktnt\Main
+api: 3.22.1
+load: POSTWORLD
+author: Nitsugua
+description: "A collection of code to make factions base raiding much easier"
+...
